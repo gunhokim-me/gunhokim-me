@@ -1,14 +1,14 @@
-### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunhokim-me&count_bg=%231E36A6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Gunho Kim
+***
+###### 백견이 불여일타
+👋 Hello My name is Gunho, I'm styding Web development in computer academy.
 
+   I have project experience in academy using Java(My most confident language), Js and Sql language.
+### :cyclone: Languages
+![JAVA](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)    ![PYTHON](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F86001?style=plastic&logo=Python&logoColor=white)  ![JSP](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-F7DF1E?style=plastic&logo=JavaScript&logoColor=yellow)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunhokim-me&show_icons=true&hide=contribs,prs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhokim-me&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunhokim-me&show_icons=true&hide=contribs,prs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **gunhokim-me/gunhokim-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
