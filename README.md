@@ -3,6 +3,11 @@
 
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunhokim-me&show_icons=true&hide=contribs,prs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhokim-me&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
