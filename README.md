@@ -6,8 +6,8 @@
 
    I have project experience in academy using Java(My most confident language), Js and Sql language.
 ### :cyclone: Languages
-![JAVA](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)    ![PYTHON](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F86001?style=plastic&logo=Python&logoColor=white)  ![JSP](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-F7DF1E?style=plastic&logo=JavaScript&logoColor=yellow)
-
+![JAVA](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)  ![ORACLE](https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007642?style=plastic&logo=Oracle&logoColor=red)
+    ![PYTHON](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F86001?style=plastic&logo=Python&logoColor=white)  ![JSP](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-F7DF1E?style=plastic&logo=JavaScript&logoColor=yellow)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunhokim-me&show_icons=true&hide=contribs,prs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
