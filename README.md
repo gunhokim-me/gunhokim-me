@@ -2,7 +2,7 @@
 # Gunho Kim
 ***
 ###### 백견이 불여일타
-👋 Hello My name is Gunho, I'm styding Web development in computer academy.
+👋 Hello My name is Gunho, I'm studing Web development in computer academy.
 
    I have project experience in academy using Java(My most confident language), Js and Sql language.
 ### :cyclone: Languages
@@ -15,6 +15,11 @@
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=GMAIL&logoColor=white&link=mailto:kgh3680@gmail.com)](mailto:kgh3680@gmail.com)
+<a href="https://byul91oh.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **gunhokim-me/gunhokim-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
